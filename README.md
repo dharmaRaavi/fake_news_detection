@@ -133,7 +133,4 @@ python fake_news_gui.py
 
 ---
 
-## 👨‍💻 Author
-**Dharma Prabhas**
-- GitHub: [Your GitHub Link]
-- LinkedIn: [Your LinkedIn Link]
+
